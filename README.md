@@ -1,6 +1,8 @@
 # BiLstm_CNN_CRF_CWS
 BiLstm+CNN+CRF  法律文档（合同类案件）领域分词（100篇标注样本）
+
 note: 实验基于
+
 anaconda py3.5
 
 tensorflow==1.0.1
