@@ -8,6 +8,13 @@ keras_contrib==2.0.8
 cuda==v8.0
 gpu==GTX750Ti
 
+# 简要介绍
+使用 bilstm+cnn+crf训练seq2seq模型
+预训练词向量 gensim
+段落有的太长，按简单标点切分为句子，maxlen控制在100+,不足maxlen前面补0
+测试也是按句子测试，最后还原成段落
+_有机会写个blog，先准备过年~新年快乐！__
+
 # step1: 法律文档+conll2012分词语料 训练word embedding
 python embedding_model.py
 # step2: 预处理+训练+测试
