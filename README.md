@@ -30,7 +30,7 @@ python embedding_model.py
    实验10次，平均**f-score=0.953**,详见prf_result_max_epoch_50_em.txt
 
 2. 随机抽50篇训练（10%用于验证集），50篇用于测试
-   实验10次，平均**f-score=0.9--**,详见prf_result_max_epoch_50_law.txt
+   实验10次，平均**f-score=0.933**,详见prf_result_max_epoch_50_law.txt
    
 3. 用conll2012中6个领域的分词训练语料+法律文档训练语料（20篇）-> 法律80篇测试
    时间问题，只测一次：**f-score:0.9--**
