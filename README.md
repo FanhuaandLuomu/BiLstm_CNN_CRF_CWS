@@ -2,10 +2,15 @@
 BiLstm+CNN+CRF  法律文档（合同类案件）领域分词（100篇标注样本）
 note: 实验基于
 anaconda py3.5
+
 tensorflow==1.0.1
+
 keras==2.0.6
+
 keras_contrib==2.0.8
+
 cuda==v8.0
+
 gpu==GTX750Ti
 
 # 简要介绍
