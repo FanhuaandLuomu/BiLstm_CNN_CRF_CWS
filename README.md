@@ -14,6 +14,7 @@ cuda==v8.0
 gpu==GTX750Ti
 
 # 简要介绍
+![model](https://github.com/FanhuaandLuomu/BiLstm_CNN_CRF_CWS/blob/master/bilstm_cnn_crf_model.png)
 1. 使用 bilstm+cnn+crf训练seq2seq模型
 2. 预训练词向量 gensim
 3. 段落有的太长，按简单标点切分为句子，maxlen控制在100+,不足maxlen前面补0
