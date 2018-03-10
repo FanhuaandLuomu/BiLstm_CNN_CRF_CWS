@@ -9,7 +9,7 @@ tensorflow==1.0.1
 
 keras==2.0.6
 
-keras_contrib==2.0.8
+keras_contrib==2.0.8  pip install git+https://www.github.com/keras-team/keras-contrib.git
 
 cuda==v8.0
 
