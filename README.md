@@ -37,4 +37,8 @@ python embedding_model.py
    
 4. 用conll2012中6个领域的分词训练语料-> 法律100篇测试
    时间问题，只测一次：**f-score:0.757**
+   
+ # New 拖了好久，终于在毕业论文交（3.26）后写了一篇分词blog（虽然也没啥技术含量，写着玩..） 
+    https://www.jianshu.com/u/52c593425488
+
 
