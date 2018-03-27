@@ -39,6 +39,6 @@ python embedding_model.py
    时间问题，只测一次：**f-score:0.757**
    
  # New 拖了好久，终于在毕业论文交（3.26）后写了一篇分词blog（虽然也没啥技术含量，写着玩..） 
-    https://www.jianshu.com/u/52c593425488
+    [基于BiLSTM-CNN-CRF的中文分词](https://www.jianshu.com/p/5fea8f42caa9 "悬停显示") 
 
 
