@@ -1,0 +1,163 @@
+('Now filename_1:', 'bc_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\bc_conll_testing.utf8
+Samme
+result:
+标准词数：15405个，正确词数：14628个，错误词数：892个
+标准行数：885，正确行数：553，错误行数：332
+Recall: 0.949562
+Precision: 0.942526
+F MEASURE: 0.946031
+ERR RATE: 0.057903
+Mine
+result:
+标准词数：15405个，正确词数：14623个，错误词数：892个
+标准行数：885，正确行数：564，错误行数：321
+Recall: 0.949237
+Precision: 0.942507
+F MEASURE: 0.945860
+ERR RATE: 0.057903
+Jieba
+result:
+标准词数：15405个，正确词数：12806个，错误词数：1941个
+标准行数：885，正确行数：283，错误行数：602
+Recall: 0.831289
+Precision: 0.868380
+F MEASURE: 0.849430
+ERR RATE: 0.125998
+--------------------
+('Now filename_2:', 'bn_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\bn_conll_testing.utf8
+Samme
+result:
+标准词数：26940个，正确词数：23895个，错误词数：3170个
+标准行数：929，正确行数：203，错误行数：726
+Recall: 0.886971
+Precision: 0.882875
+F MEASURE: 0.884918
+ERR RATE: 0.117669
+Mine
+result:
+标准词数：26940个，正确词数：24795个，错误词数：1725个
+标准行数：929，正确行数：412，错误行数：517
+Recall: 0.920379
+Precision: 0.934955
+F MEASURE: 0.927609
+ERR RATE: 0.064031
+Jieba
+result:
+标准词数：26940个，正确词数：21762个，错误词数：4452个
+标准行数：929，正确行数：96，错误行数：833
+Recall: 0.807795
+Precision: 0.830167
+F MEASURE: 0.818828
+ERR RATE: 0.165256
+--------------------
+('Now filename_3:', 'mz_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\mz_conll_testing.utf8
+Samme
+result:
+标准词数：14105个，正确词数：11824个，错误词数：1913个
+标准行数：451，正确行数：62，错误行数：389
+Recall: 0.838284
+Precision: 0.860741
+F MEASURE: 0.849364
+ERR RATE: 0.135626
+Mine
+result:
+标准词数：14105个，正确词数：12586个，错误词数：1320个
+标准行数：451，正确行数：115，错误行数：336
+Recall: 0.892308
+Precision: 0.905077
+F MEASURE: 0.898647
+ERR RATE: 0.093584
+Jieba
+result:
+标准词数：14105个，正确词数：11227个，错误词数：1880个
+标准行数：451，正确行数：50，错误行数：401
+Recall: 0.795959
+Precision: 0.856565
+F MEASURE: 0.825151
+ERR RATE: 0.133286
+--------------------
+('Now filename_4:', 'nw_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\nw_conll_testing.utf8
+Samme
+result:
+标准词数：11722个，正确词数：10262个，错误词数：1315个
+标准行数：481，正确行数：148，错误行数：333
+Recall: 0.875448
+Precision: 0.886413
+F MEASURE: 0.880896
+ERR RATE: 0.112182
+Mine
+result:
+标准词数：11722个，正确词数：10803个，错误词数：639个
+标准行数：481，正确行数：255，错误行数：226
+Recall: 0.921600
+Precision: 0.944153
+F MEASURE: 0.932740
+ERR RATE: 0.054513
+Jieba
+result:
+标准词数：11722个，正确词数：8753个，错误词数：2109个
+标准行数：481，正确行数：83，错误行数：398
+Recall: 0.746716
+Precision: 0.805837
+F MEASURE: 0.775151
+ERR RATE: 0.179918
+--------------------
+('Now filename_5:', 'tc_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\tc_conll_testing.utf8
+Samme
+result:
+标准词数：10198个，正确词数：8409个，错误词数：1304个
+标准行数：968，正确行数：456，错误行数：512
+Recall: 0.824573
+Precision: 0.865747
+F MEASURE: 0.844659
+ERR RATE: 0.127868
+Mine
+result:
+标准词数：10198个，正确词数：9373个，错误词数：811个
+标准行数：968，正确行数：642，错误行数：326
+Recall: 0.919102
+Precision: 0.920365
+F MEASURE: 0.919733
+ERR RATE: 0.079525
+Jieba
+result:
+标准词数：10198个，正确词数：8620个，错误词数：1263个
+标准行数：968，正确行数：523，错误行数：445
+Recall: 0.845264
+Precision: 0.872205
+F MEASURE: 0.858523
+ERR RATE: 0.123848
+--------------------
+('Now filename_6:', 'wb_conll_testing.utf8')
+test_documents/conll2012_test_pred_samme\wb_conll_testing.utf8
+Samme
+result:
+标准词数：13938个，正确词数：12455个，错误词数：1825个
+标准行数：758，正确行数：261，错误行数：497
+Recall: 0.893600
+Precision: 0.872199
+F MEASURE: 0.882770
+ERR RATE: 0.130937
+Mine
+result:
+标准词数：13938个，正确词数：12734个，错误词数：1367个
+标准行数：758，正确行数：321，错误行数：437
+Recall: 0.913617
+Precision: 0.903057
+F MEASURE: 0.908306
+ERR RATE: 0.098077
+Jieba
+result:
+标准词数：13938个，正确词数：11321个，错误词数：3267个
+标准行数：758，正确行数：151，错误行数：607
+Recall: 0.812240
+Precision: 0.776049
+F MEASURE: 0.793732
+ERR RATE: 0.234395
+--------------------
+[Finished in 0.6s]
