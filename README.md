@@ -40,5 +40,21 @@ python embedding_model.py
    
  # New 拖了好久，终于在毕业论文交（3.26）后写了一篇分词blog（虽然也没啥技术含量，写着玩..） 
     [基于BiLSTM-CNN-CRF的中文分词](https://www.jianshu.com/p/5fea8f42caa9 "简书链接") 
+# simple_bilstm_model
+程序写的太繁琐，简化了一下  只关心
+pip install keras==2.0.6  深度学习分词算法的可以只看这个文件夹下的bilstm_cnn_crf.py程序
+keras_contrib==2.0.8 pip install git+https://www.github.com/keras-team/keras-contrib.git  
+pip install gensim  
+如缺少其它模块，看报错自行安装  
 
+	## note
+	# 把你的语料放到corpus文件夹下  我的corpus中的语料压缩了，如使用可以解压
+	# 1. python embedding_model.py  -> model_conll_law.m  生成词向量文件
+	# 2. python bilstm_cnn_crf.py    // is_train==1
+	# 会得到 train_model.hdf5  lexicon.pkl
+	# 3. 可以在之前的基础上train_model.hdf5，继续训练
+	# 4. 训练完成，测试  is_train==0
+	# python bilstm_cnn_crf.py  按句测试或按文件测试
+
+	# my_weights 中存放的是我的权值 
 
