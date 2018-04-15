@@ -58,3 +58,7 @@ pip install gensim
 
 	# my_weights 中存放的是我的权值 
 
+## 关于simple_bilstm_model程序的运行，写了个讲解，详见
+[BiLSTM_CNN_CRF分词程序—运行讲解](https://www.jianshu.com/p/373ce87e6f32 "简书链接")
+
+
