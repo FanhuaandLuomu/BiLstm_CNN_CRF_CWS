@@ -12,8 +12,7 @@ class MySentences():
 		for dirname in self.dirname_list:
 			for fname in os.listdir(dirname):
 				for line in codecs.open(dirname+os.sep+fname,'r','utf-8'):
-					pieces=line.strip().replace(' ','')
-					words=[w for w in pieces]
+					words=line.strip().split(' ')
 					yield words
 
 corpus_path='corpus'
